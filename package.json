@@ -1,0 +1,14 @@
+{
+  "name": "marketo",
+  "version": "1.0.0",
+  "description": "code example for Marketo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zoe Landon",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
+}
